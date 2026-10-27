@@ -15,7 +15,6 @@
 **Authors:** Jakub Morze, Kirk Smith, Marcin Kierczak, Göran Bergström, Hui Li, Anders Gummesson, Tove Fall, Stefan Söderberg, Tino Ebbers, J. Gustav Smith, Rikard Landberg, Paul Franks, Tuuli Lappalainen, Miriam Udler, Clemens Wittenbecher
 
 **Corresponding Authors:**
-- Jakub Morze, MD PhD (jakub.morze@chalmers.se)
 - Clemens Wittenbecher, PhD (clemens.wittenbecher@chalmers.se)
 
 **Affiliations:** Department of Life Sciences, Chalmers University of Technology; Massachusetts General Hospital; Uppsala University; University of Gothenburg; Umeå University; Linköping University; Lund University; KTH Royal Institute of Technology.
